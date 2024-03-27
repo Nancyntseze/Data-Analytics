@@ -21,3 +21,18 @@ The Groundwater Chemistry Distribution Dashboard serves as a vital tool for the 
 
 **Dashboard overview:**
 ![Chemistry_Distribution](Chemistry_Distribution.png)
+
+# Project 3
+**Title:** [Groundwater Chemistry Distribution Dashboard: Enhancing Environmental Monitoring for Mining Operations](https://github.com/Nancyntseze/Data-Analytics)
+
+**Project Summary:**  The Financial Performance Dashboard for Nike Company offers a comprehensive analysis of the company's profitability based on different retail stores, performance metrics, and efficiency indicators. Developed using pivot tables, this dashboard provides stakeholders with valuable insights into Nike's financial health and operational efficiency. The dashboard showcases the profitability of Nike's retail stores, allowing stakeholders to identify top-performing stores and regions contributing most to the company's revenue and profit margins. It also summarizes key performance indicators (KPIs) such as sales revenue, gross profit, net profit, and profit margins are visualized to assess Nike's financial performance over time. Trend analysis helps identify areas of improvement and potential growth opportunities. Additionally, the project was able to achieve the following:
+-Enhanced visibility into Nike's financial performance across retail stores and regions.
+-Improved decision-making by identifying top-performing stores and areas for operational optimization.
+-Streamlined reporting process with interactive pivot tables, reducing time spent on data analysis and reporting.
+-Facilitated data-driven discussions and strategic planning sessions among stakeholders.
+
+**Dashboard overview:**
+![Nike_Financial_Report](Nike_Financial_Report.png)
+
+
+
