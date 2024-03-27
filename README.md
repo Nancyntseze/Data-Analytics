@@ -3,6 +3,7 @@
 **Title:** [HR Analytics Dashboard](https://github.com/Nancyntseze/Data-Analytics)
 
 **Project Summary:** The HR Analytics Dashboard is a data visualization project to leverage analytics to enhance human resources management processes. I developed this project for a client in the recruitment industry. This dashboard provides actionable insights into various HR metrics, empowering organizations to make data-driven decisions for talent acquisition, employee engagement, performance evaluation, and retention strategies. By analyzing factors contributing to employee turnover, such as job satisfaction, compensation, and career development opportunities, the dashboard assists HR teams in developing targeted retention strategies to retain top talent. The customizable dashboard allows organizations to tailor it to their specific HR metrics, organizational goals, and reporting requirements.
+
 Benefits:
 -Enables data-driven decision-making in HR management.
 -Identifies trends and patterns to enhance workforce planning and optimization.
@@ -25,7 +26,9 @@ The Groundwater Chemistry Distribution Dashboard serves as a vital tool for the 
 # Project 3
 **Title:** [Groundwater Chemistry Distribution Dashboard: Enhancing Environmental Monitoring for Mining Operations](https://github.com/Nancyntseze/Data-Analytics)
 
-**Project Summary:**  The Financial Performance Dashboard for Nike Company offers a comprehensive analysis of the company's profitability based on different retail stores, performance metrics, and efficiency indicators. Developed using pivot tables, this dashboard provides stakeholders with valuable insights into Nike's financial health and operational efficiency. The dashboard showcases the profitability of Nike's retail stores, allowing stakeholders to identify top-performing stores and regions contributing most to the company's revenue and profit margins. It also summarizes key performance indicators (KPIs) such as sales revenue, gross profit, net profit, and profit margins are visualized to assess Nike's financial performance over time. Trend analysis helps identify areas of improvement and potential growth opportunities. Additionally, the project was able to achieve the following:
+**Project Summary:**  The Financial Performance Dashboard for Nike Company offers a comprehensive analysis of the company's profitability based on different retail stores, performance metrics, and efficiency indicators. Developed using pivot tables, this dashboard provides stakeholders with valuable insights into Nike's financial health and operational efficiency. The dashboard showcases the profitability of Nike's retail stores, allowing stakeholders to identify top-performing stores and regions contributing most to the company's revenue and profit margins. It also summarizes key performance indicators (KPIs) such as sales revenue, gross profit, net profit, and profit margins are visualized to assess Nike's financial performance over time. Trend analysis helps identify areas of improvement and potential growth opportunities. 
+
+Additionally, the project was able to achieve the following:
 -Enhanced visibility into Nike's financial performance across retail stores and regions.
 -Improved decision-making by identifying top-performing stores and areas for operational optimization.
 -Streamlined reporting process with interactive pivot tables, reducing time spent on data analysis and reporting.
