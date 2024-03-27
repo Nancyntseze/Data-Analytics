@@ -24,7 +24,7 @@ The Groundwater Chemistry Distribution Dashboard serves as a vital tool for the 
 ![Chemistry_Distribution](Chemistry_Distribution.png)
 
 # Project 3
-**Title:** [Groundwater Chemistry Distribution Dashboard: Enhancing Environmental Monitoring for Mining Operations](https://github.com/Nancyntseze/Data-Analytics)
+**Title:** [Financial Performance Dashboard for Nike Company](https://github.com/Nancyntseze/Data-Analytics)
 
 **Project Summary:**  The Financial Performance Dashboard for Nike Company offers a comprehensive analysis of the company's profitability based on different retail stores, performance metrics, and efficiency indicators. Developed using pivot tables, this dashboard provides stakeholders with valuable insights into Nike's financial health and operational efficiency. The dashboard showcases the profitability of Nike's retail stores, allowing stakeholders to identify top-performing stores and regions contributing most to the company's revenue and profit margins. It also summarizes key performance indicators (KPIs) such as sales revenue, gross profit, net profit, and profit margins are visualized to assess Nike's financial performance over time. Trend analysis helps identify areas of improvement and potential growth opportunities. 
 
@@ -36,6 +36,23 @@ Additionally, the project was able to achieve the following:
 
 **Dashboard overview:**
 ![Nike_Financial_Report](Nike_Financial_Report.png)
+
+# Project 4
+**Title:** [Dashboard of Cookies Limited Bakery's Financial Performance](https://github.com/Nancyntseze/Data-Analytics)
+
+**Project Summary:**  Cookies Limited Bakery's Financial Performance Dashboard offers a thorough analysis of the company's profitability across its stores in various countries. Utilizing pivot tables, this dashboard provides insights into sales performance, revenue generation, cost management, and overall operational efficiency. Key features include profit analysis by store and country, product performance metrics, date-wise revenue trends, and cost and profit efficiency metrics. Achievements include enhanced visibility into financial performance, improved product analysis, streamlined reporting processes, and facilitated data-driven discussions. Overall, the dashboard empowers stakeholders to make informed decisions and drive continuous improvement in Cookies Limited's financial management and business operations.
+The dashboard illustrates date-wise revenue trends, offering insights into seasonal variations and sales patterns over time. Stakeholders can discern peak sales periods, plan inventory management accordingly, and capitalize on revenue opportunities.
+
+**Dashboard overview:**
+![Cookies_Limited_Financials](Cookies_Limited_Financials.png)
+
+
+
+
+
+
+
+
 
 
 
